@@ -1,0 +1,17 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "karsa-mistmere",
+    "ericfennis",
+    "abdeniz"
+  ],
+  "tags": [
+    "settings",
+    "filters",
+    "controls",
+    "add"
+  ],
+  "categories": [
+    "account"
+  ]
+}
